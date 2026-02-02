@@ -1,7 +1,0 @@
-langchain-openai
-langgraph
-langchain
-python-dotenv
-langchain-community
-duckduckgo-search
-langchain-core
